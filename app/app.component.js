@@ -46,4 +46,4 @@ System.register(['angular2/core', './todos-list.component', './todo'], function(
         }
     }
 });
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=app.component.js.map
